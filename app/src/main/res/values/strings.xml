@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Event Planning</string>
+    <string name="add">+</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Flower">
+
+        <item>~Select~</item>
+        <item>No</item>
+        <item>Normal</item>
+        <item>Delux</item>
+        <item>Royal</item>
+
+    </string-array>
+
+    <string-array name="Lights">
+        <item>~Select~</item>
+        <item>No</item>
+        <item>Normal</item>
+        <item>Delux</item>
+        <item>Royal</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Seats">
+
+        <item>~Select~</item>
+        <item> Chairs</item>
+        <item>Sofa</item>
+        <item>Chairs and Sofa</item>
+
+    </string-array>
+
+    <string-array name="Type">
+
+        <item>~Select~</item>
+        <item>Normal</item>
+        <item>Deluxe</item>
+        <item>Royal</item>
+    </string-array>
+
+</resources>
